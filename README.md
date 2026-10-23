@@ -80,7 +80,7 @@ figures/
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/sersic-galaxy-fitting.git
+git clone https://github.com/judecole96/sersic-galaxy-fitting.git
 cd sersic-galaxy-fitting
 pip install -r requirements.txt
 jupyter notebook notebooks/Sersic_Profile_Analysis.ipynb
